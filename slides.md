@@ -87,6 +87,8 @@ handle: '_serxius_'
 * Legaltech software
 * Clean Tech > [bloomod](https://bloomod.com)
 
+<img src="https://www.bloomod.com/images/logo.png" height="50" width="80" style="margin: 10px"/>
+
 ---
 layout: cover-logos
 logos: [
@@ -96,22 +98,22 @@ logos: [
   'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png',
   'https://cdn-icons-png.flaticon.com/512/919/919825.png',
   'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png',
   'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png',
   'https://profile.es/wp-content/media/image.png',
   'https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png',
   'https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png',
   'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gnulinux.svg/1200px-Gnulinux.svg.png',
-  'https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png'
+  'https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png',
+  'http://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png',
+  'https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png',
+  'https://www.gstatic.com/devrel-devsite/prod/v63b1ab83c7ef339d4047a8b2e39f4276b23993a7a27f52a95a4e519913214950/firebase/images/touchicon-180.png',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/640px-Visual_Studio_Code_1.18_icon.svg.png'
 ]
 website: 'smorcuend.github.io'
 handle: '_serxius_'
 ---
 # Tech tools
-* e-Reader software
-* Educational Robotics Software > [bitbloq](bitbloq.cc)
-* Digital In-Image  advertising software
-* Data analyst & visualization
-* Legaltech software
 
 ---
 layout: center

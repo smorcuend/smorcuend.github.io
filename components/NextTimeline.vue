@@ -136,7 +136,7 @@ export default {
     },
     minWidth: {
       type: String,
-      default: "700px"
+      default: "500px"
     },
     maxWidth: {
       type: String,
@@ -144,11 +144,11 @@ export default {
     },
     minWidthItem: {
       type: String,
-      default: "200px"
+      default: "100px"
     },
     maxWidthItem: {
       type: String,
-      default: "400px"
+      default: "220px"
     },
     textAlign: {
       type: String,

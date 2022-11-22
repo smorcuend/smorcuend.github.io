@@ -36,8 +36,6 @@
   </div>
 </template>
 
-<script setup>
-import VueTimeline from "@growthbunker/vuetimeline";
+<script setup lang="ts">
+// import VueTimeline from "@growthbunker/vuetimeline";
 </script>
-
-<style lang="scss" scoped></style>
